@@ -19,13 +19,12 @@ public class FurnitureItem {
         GradeOfFurniture = 'A';
         this.color = "Red";
         this.furnitureUsage = "OutDoor";
-        Price = 1499.10;
+        Price = 1399.45;
     }
     
-    public double calculateDiscount ( ) {
-        double discount = 5;
-        double discountPaidAmount = 0;
-        if ( furnitureUsage.equals ( "Outdoor" ) ) {
+    public double calculateDiscount ( double discount ) {
+        double discountPaidAmount = 0.0;
+        if ( furnitureUsage.equals ( "OutDoor" ) ) {
             discountPaidAmount = Price - ( Price * discount ) / 100;
             
         }
