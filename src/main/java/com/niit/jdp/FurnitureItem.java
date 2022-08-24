@@ -21,4 +21,16 @@ public class FurnitureItem {
         this.furnitureUsage = "OutDoor";
         Price = 1499.10;
     }
+    
+    public double calculateDiscount ( ) {
+        double discount = 5;
+        double discountPaidAmount = 0;
+        if ( furnitureUsage.equals ( "Outdoor" ) ) {
+            discountPaidAmount = Price - ( Price * discount ) / 100;
+            
+        }
+        return discountPaidAmount;
+        
+        
+    }
 }
