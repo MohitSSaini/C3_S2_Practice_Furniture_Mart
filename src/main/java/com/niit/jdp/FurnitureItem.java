@@ -13,5 +13,12 @@ public class FurnitureItem {
     String furnitureUsage;
     double Price;
     
-    
+    public FurnitureItem ( ) {
+        this.furnitureCode = 34532;
+        this.furnitureType = "Table";
+        GradeOfFurniture = 'A';
+        this.color = "Red";
+        this.furnitureUsage = "OutDoor";
+        Price = 1499.10;
+    }
 }
