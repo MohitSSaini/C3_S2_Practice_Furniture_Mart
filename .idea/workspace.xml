@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e00de12-c006-42d2-9eac-13e0aa237a35" name="Changes" comment="added a text file in furniture_mart_txt">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/FurnitureItem.java" afterDir="false" />
+    <list default="true" id="8e00de12-c006-42d2-9eac-13e0aa237a35" name="Changes" comment="Create a class in FurnitureItem">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/furniture_mart_txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/furniture_mart_txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661340489243</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create a class in FurnitureItem">
+      <created>1661340698965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661340698965</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,7 +95,8 @@
     <MESSAGE value="inisial commit" />
     <MESSAGE value="change version maven 18 to 11" />
     <MESSAGE value="added a text file in furniture_mart_txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a text file in furniture_mart_txt" />
+    <MESSAGE value="Create a class in FurnitureItem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a class in FurnitureItem" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
