@@ -1,10 +1,10 @@
 // Attributes
-Furniture code
-Furniture Type
-GradeOfFurniture
-color
-Furniture Usage
-Price
+int ==> Furniture code;
+String ==> Furniture Type;
+char ==> GradeOfFurniture;
+String ==> color;
+String ==> Furniture Usage;
+double ==> Price;
 
 
 //Behavior

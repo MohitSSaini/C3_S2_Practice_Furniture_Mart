@@ -6,4 +6,12 @@
 package com.niit.jdp;
 
 public class FurnitureItem {
+    int furnitureCode;
+    String furnitureType;
+    char GradeOfFurniture;
+    String color;
+    String furnitureUsage;
+    double Price;
+    
+    
 }
